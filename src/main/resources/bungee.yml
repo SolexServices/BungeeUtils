@@ -1,0 +1,4 @@
+name: BungeeUtils
+main: pw.solex.core.BungeePlugin
+version: 1.0-SNAPSHOT
+author: Solex Services
